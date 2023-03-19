@@ -1,0 +1,4 @@
+#choicesdiv{
+    display: flex;
+    flex-direction: column;
+}
